@@ -1,7 +1,7 @@
 body {
-    font-family: "Fira Sans", sans-serif; /* Updated font family */
-    background-color: antiquewhite; /* Changed background color to antique white */
-    color: #333333; /* Updated font color for better contrast */
+    font-family: "Fira Sans", sans-serif; 
+    background-color: antiquewhite; 
+    color: #333333; 
     margin: 0;
     padding: 0;
 }
@@ -17,8 +17,8 @@ body {
 
 h1 {
     text-align: center;
-    font-family: "Roboto", sans-serif; /* New font for the heading */
-    color: #007BFF; /* Updated font color for the heading */
+    font-family: "Roboto", sans-serif; 
+    color: #007BFF;
 }
 
 .input-container {
@@ -32,9 +32,8 @@ input[type="text"] {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 3px;
-    font-family: "Fira Sans", sans-serif; /* Consistent font usage */
+    font-family: "Fira Sans", sans-serif; 
 }
-
 button {
     width: 28%;
     padding: 10px;
@@ -43,9 +42,8 @@ button {
     border: none;
     border-radius: 3px;
     cursor: pointer;
-    font-family: "Fira Sans", sans-serif; /* Consistent font usage */
+    font-family: "Fira Sans", sans-serif; 
 }
-
 ul {
     list-style: none;
     padding: 0;
@@ -59,12 +57,11 @@ li {
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 3px;
-    color: #333333; /* Updated font color for list items */
+    color: #333333; 
 }
-
 li span {
     flex-grow: 1;
-    font-family: "Fira Sans", sans-serif; /* Consistent font usage */
+    font-family: "Fira Sans", sans-serif; 
 }
 
 .delete-btn {
@@ -75,5 +72,5 @@ li span {
     margin-left: 5px;
     border-radius: 3px;
     cursor: pointer;
-    font-family: "Fira Sans", sans-serif; /* Consistent font usage */
+    font-family: "Fira Sans", sans-serif; 
 }
